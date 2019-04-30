@@ -1,5 +1,5 @@
 #include<stdio.h>
-/*int main()
+int main()
 {
     int A[] = {2,4,5,8,1};
     int i;
@@ -12,4 +12,3 @@
         printf("Value of element at position %d = %d\n",i,*(A+i));
     }
 }
-*/
